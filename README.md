@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ShrilCarpenter/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShrilCarpenter/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShrilCarpenter/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShrilCarpenter/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShrilCarpenter/Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShrilCarpenter/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShrilCarpenter/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShrilCarpenter/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -50,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShrilCarpenter/Leetcode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/1927-sum-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
