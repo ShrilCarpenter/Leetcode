@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ShrilCarpenter/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ShrilCarpenter/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShrilCarpenter/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShrilCarpenter/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
