@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ShrilCarpenter/Leetcode/tree/master/0835-image-overlap) |
+| [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ShrilCarpenter/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrilCarpenter/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ShrilCarpenter/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShrilCarpenter/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShrilCarpenter/Leetcode/tree/master/2029-stone-game-ix) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShrilCarpenter/Leetcode/tree/master/2029-stone-game-ix) |
@@ -84,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ShrilCarpenter/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ShrilCarpenter/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShrilCarpenter/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
