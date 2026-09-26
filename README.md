@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShrilCarpenter/Leetcode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/ShrilCarpenter/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ShrilCarpenter/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShrilCarpenter/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/ShrilCarpenter/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ShrilCarpenter/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShrilCarpenter/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShrilCarpenter/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ShrilCarpenter/Leetcode/tree/master/1563-stone-game-v) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShrilCarpenter/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1872-stone-game-viii) |
@@ -92,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ShrilCarpenter/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0486-predict-the-winner](https://github.com/ShrilCarpenter/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShrilCarpenter/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ShrilCarpenter/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ShrilCarpenter/Leetcode/tree/master/1406-stone-game-iii) |
@@ -207,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShrilCarpenter/Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShrilCarpenter/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
